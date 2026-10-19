@@ -4,6 +4,8 @@ Drop-in files that make Claude Code behave consistently across your whole team: 
 
 Written for engineering teams and tech leads who already use [Claude Code](https://code.claude.com/docs) and want fewer "it did something weird again" moments.
 
+**See it on a real codebase:** the [demo repo](https://github.com/sandeshp1995/claude-code-team-kit-demo) is a small FastAPI app built with the kit. Its pull requests show real, unedited output from `/ticket-to-plan`, `/test-changed`, `/review` and `/mr-description`, including a review that caught a data leak.
+
 ## What's inside
 
 | Path | What it is | How you use it |
